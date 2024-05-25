@@ -1,1 +1,2 @@
 # z-neuralnetwork
+initial commit
